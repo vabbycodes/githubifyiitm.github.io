@@ -14,7 +14,7 @@
 - five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
 - It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum 
 
-
+![](/images/image.jpeg)
 
 ### [Project 2 : Cancer Detection](https://www.markdownguide.org/basic-syntax/#links)
 
@@ -23,3 +23,5 @@
 - took a galley of type and scrambled it to make a type specimen book. It has survived not only 
 - five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
 - It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum 
+
+![](/images/image.jpeg)
